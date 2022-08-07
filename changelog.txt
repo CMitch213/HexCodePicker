@@ -1,0 +1,28 @@
+v1.0:
+
+- capitalization
+- basic text ui
+- added Red
+- added Green
+- added Blue
+
+
+v1.01:
+
+- minorly tweaked text ui
+- added Yellow
+- added Pink/Magenta
+- added Cyan/Light Blue
+
+v1.01.1
+
+- fixed bug where pink & light blue wouldn't display text
+
+v1.02
+
+- added White
+- added Black
+- added Grey/Gray
+
+v1.03
+- added Error code incase of invalid text.
