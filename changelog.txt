@@ -25,4 +25,18 @@ v1.02
 - added Grey/Gray
 
 v1.03
+
 - added Error code incase of invalid text.
+
+v1.04
+
+-added Light Grey/Gray
+-added Dark Grey/Gray
+-added Orange
+-added Purple
+-added Light Red
+-added Dark Red
+-added Light Blue
+-added Dark Blue
+-added Light Green
+-added Dark Green
