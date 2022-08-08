@@ -9,7 +9,7 @@ namespace HexCodeChooser
             string code = "";
             string choice;
 
-            Console.WriteLine("-----     Hex Code Picker v1.03     -----");
+            Console.WriteLine("-----     Hex Code Picker v1.04     -----");
             Console.WriteLine("-----                              -----");
             Console.WriteLine("-----     Type your colour here    -----");
             Console.WriteLine("");
@@ -56,6 +56,46 @@ namespace HexCodeChooser
                 else if (choice == "grey" || choice == "Grey" || choice == "gray" || choice == "Gray")
                 {
                     code = "#5A5A5A";
+                }
+                else if (choice == "light grey" || choice == "Light Grey" || choice == "light gray" || choice == "Light Gray")
+                {
+                    code = "#C3C3C3";
+                }
+                else if (choice == "dark grey" || choice == "Dark Grey" || choice == "dark gray" || choice == "Dark Gray")
+                {
+                     code = "#2F2F2F";
+                }
+                else if (choice == "orange" || choice == "Orange")
+                {
+                     code = "#FF7400";
+                }
+                else if (choice == "purple" || choice == "Purple")
+                {
+                     code = "#9700FF";
+                }
+                else if(choice == "light red" || choice == "Light Red")
+                {
+                     code = "#FF6767";
+                }
+                else if(choice == "dark red" || choice == "Dark Red")
+                {
+                     code = "#7E0000";
+                }
+                else if(choice == "light blue" || choice == "Light Blue")
+                {
+                     code = "#79A7FF";
+                }
+                else if(choice == "dark blue" || choice == "Dark Blue")
+                {
+                     code = "#00205C";
+                }
+                else if(choice == "light green" || choice == "Light Green")
+                {
+                     code = "#A1FFA1";
+                }
+                else if(choice == "dark green" || choice == "Dark Green")
+                {
+                     code = "#003B00";
                 }
                 else
                 {
